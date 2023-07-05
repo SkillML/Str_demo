@@ -43,6 +43,9 @@ else:
     st.warning("👈 Please upload an image first...")
     st.stop()
 
+st.sidebar.subheader("Developed by")
+st.sidebar.text("Zviad Beridze www.linkedin.com/in/zviadi-beridze-722402237 )")
+ 
 
 st.write("## Model prediction")
 
